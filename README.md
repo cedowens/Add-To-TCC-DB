@@ -15,9 +15,6 @@ This JXA script takes two arguments:
 - **kTCCServiceSystemPolicyDocumentsFolder** (for Documents folder access), 
 - **kTCCServiceAppleEvents** (for Apple Events),
 - **kTCCServiceCamera** (for Camera),
-- .
-- .
-- .
 
 
 
