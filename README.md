@@ -1,5 +1,9 @@
 # Add-To-TCC-DB
-A JXA script that leverages sqlite3 API calls to add items to the user's TCC database at: ~/Library/Application Support/com.apple.TCC/TCC.db. This is a follow-up repo to Antonio Piazza's JXA code to view TCC db contents at: https://github.com/antman1p/PrintTCCdb
+A JXA script that leverages sqlite3 API calls to add items to the user's TCC database at: 
+
+**~/Library/Application Support/com.apple.TCC/TCC.db**
+
+This is a follow-up repo to Antonio Piazza's JXA code to view TCC db contents at: https://github.com/antman1p/PrintTCCdb
 
 **NOTE: Terminal must already have full disk access to write to the user's TCC.db**
 
