@@ -9,7 +9,7 @@ This is a follow-up repo to Antonio Piazza's JXA code to view TCC db contents at
 
 This JXA script takes two arguments:
 
-- First Argument is what TCC access you would like to grant. Examples include:
+==> First Argument is what TCC access you would like to grant. Examples include:
 
 - **kTCCServiceSystemPolicyDownloadsFolder** (for Downloads folder access), 
 - **kTCCServiceSystemPolicyDocumentsFolder** (for Documents folder access), 
@@ -21,7 +21,7 @@ This JXA script takes two arguments:
 
 
 
-- Second argument is the bundleID of the application that you want to grant TCC access to. NOTE: This must be the application bundle identifier, not the application name. To find an app's bundle ID from Terminal you can run:
+==> Second argument is the bundleID of the application that you want to grant TCC access to. NOTE: This must be the application bundle identifier, not the application name. To find an app's bundle ID from Terminal you can run:
 
 > osascript -e 'id of app "[app_name]"
 
