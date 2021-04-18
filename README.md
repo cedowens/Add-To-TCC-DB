@@ -11,10 +11,10 @@ This JXA script takes two arguments:
 
 ==> First Argument is what TCC access you would like to grant. Examples include:
 
-- **kTCCServiceSystemPolicyDownloadsFolder** (for Downloads folder access), 
-- **kTCCServiceSystemPolicyDocumentsFolder** (for Documents folder access), 
-- **kTCCServiceAppleEvents** (for Apple Events),
-- **kTCCServiceCamera** (for Camera),
+- **kTCCServiceSystemPolicyDownloadsFolder** (for Downloads folder access)
+- **kTCCServiceSystemPolicyDocumentsFolder** (for Documents folder access) 
+- **kTCCServiceAppleEvents** (for Apple Events)
+- **kTCCServiceCamera** (for Camera)
 
 
 
