@@ -5,7 +5,7 @@ A JXA script that leverages sqlite3 API calls to add items to the user's TCC dat
 
 This is a follow-up repo to Antonio Piazza's JXA code to view TCC db contents at: https://github.com/antman1p/PrintTCCdb
 
-**NOTE: Terminal must already have full disk access to write to the user's TCC.db**
+**NOTE: Terminal must already have full disk access to write to the user's TCC.db. Additionally, if an app has already been denied access to a specific folder by the user via a TCC prompt, that appears to override even inserting an entry into the TCC database granting access for that program to that folder. So the best scenario of use is for this script is to grant app bundles that have not already been denied access to folders.**
 
 This JXA script takes two arguments:
 
